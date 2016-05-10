@@ -13,7 +13,7 @@ import weka.classifiers.Evaluation;
 import weka.classifiers.lazy.IBk;
 
 public class HelloWeka {
-
+//djdjdjd//
 	public static void main(String[] args) throws Exception{
 
 		Instances test;
