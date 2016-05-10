@@ -13,9 +13,9 @@ import weka.classifiers.Evaluation;
 import weka.classifiers.lazy.IBk;
 
 public class HelloWeka {
-//djdjdjd//
-	public static void main(String[] args) throws Exception{
 
+	public static void main(String[] args) throws Exception{
+//gggggggggggggg//
 		Instances test;
 		Instances train;
 		 // Read all the instances in the file (ARFF, CSV, XRFF, ...)
