@@ -30,7 +30,7 @@ public class HelloWeka {
 		String res;
 		if((res = knn.createEvaluation()) !=null)
 			System.out.println(res);
-		else
+		else 
 		{
 			System.out.println("processing..."); 
 			knn.crossValidateModel( 10, new Random(100));
